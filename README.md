@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @enesbol
 - 👀 I’m interested in Machine Learning Deep Learning,CNN.
-- 🌱 I’m currently learning boosting and bagging models.
+- 🌱 I’m currently learning time series.
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me  enes_2219@hotmail.com
 
