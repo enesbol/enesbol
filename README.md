@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @enesbol
+- 📫 You can ask me about XGBoost, Deep Learning, Machine Learning and Time Series Analysis.
 - 📫 How to reach me  enes_2219@hotmail.com
 
 <!---
